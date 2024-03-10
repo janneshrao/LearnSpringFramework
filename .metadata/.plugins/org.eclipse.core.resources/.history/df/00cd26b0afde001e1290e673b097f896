@@ -1,0 +1,9 @@
+package com.jannesh.Spring;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Alien obj;
+    }
+}
